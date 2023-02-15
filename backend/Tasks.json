@@ -1,0 +1,143 @@
+[
+  {
+    "Task": "Task 2",
+    "Priority": "High",
+    "Start": "Wednesday, November 23, 2022",
+    "End": "Tuesday, December 13, 2022",
+    "SubTask": [
+      {
+        "sub_task": "abc",
+        "done": true
+      },
+      {
+        "sub_task": "def",
+        "done": true
+      },
+      {
+        "sub_task": "ghi",
+        "done": false
+      },
+      {
+        "sub_task": "jkl",
+        "done": true
+      },
+      {
+        "sub_task": "mno",
+        "done": true
+      },
+      {
+        "sub_task": "pqr",
+        "done": true
+      },
+      {
+        "sub_task": "stu",
+        "done": true
+      },
+      {
+        "sub_task": "vwx",
+        "done": false
+      }
+    ],
+    "Task_id": 2
+  },
+  {
+    "Task": "profuctivity",
+    "Priority": "High",
+    "Start": "Wednesday, November 23, 2022",
+    "End": "Monday, December 12, 2022",
+    "SubTask": [
+      {
+        "sub_task": "life",
+        "done": true
+      },
+      {
+        "sub_task": "is",
+        "done": true
+      },
+      {
+        "sub_task": "dissapointing",
+        "done": false
+      }
+    ],
+    "Task_id": 4
+  },
+  {
+    "Task": "Guru",
+    "Priority": "Low",
+    "Start": "Friday, November 25, 2022",
+    "End": "Wednesday, December 7, 2022",
+    "SubTask": [
+      {
+        "sub_task": "life",
+        "done": true
+      },
+      {
+        "sub_task": "is",
+        "done": true
+      },
+      {
+        "sub_task": "nice",
+        "done": true
+      }
+    ],
+    "Task_id": 5
+  },
+  {
+    "Task": "Projects",
+    "Priority": "High",
+    "Start": "Monday, September 5, 2022",
+    "End": "Friday, December 2, 2022",
+    "SubTask": [
+      {
+        "sub_task": "APP4035",
+        "done": true
+      },
+      {
+        "sub_task": "SFE4030",
+        "done": true
+      },
+      {
+        "sub_task": "APT3065",
+        "done": true
+      },
+      {
+        "sub_task": "APT1030",
+        "done": false
+      }
+    ],
+    "Task_id": 6
+  },
+  {
+    "Task": "APT3025",
+    "Priority": "Medium",
+    "Start": "Wednesday, November 23, 2022",
+    "End": "Wednesday, December 14, 2022",
+    "SubTask": [
+      {
+        "sub_task": "Assignment 1",
+        "done": true
+      },
+      {
+        "sub_task": "Assignment 2",
+        "done": true
+      },
+      {
+        "sub_task": "Assignment 3",
+        "done": true
+      },
+      {
+        "sub_task": "Quiz 1",
+        "done": true
+      },
+      {
+        "sub_task": "Quiz 2",
+        "done": true
+      },
+      {
+        "sub_task": "Quiz 3",
+        "done": true
+      }
+    ],
+    "Task_id": 7
+  }
+]

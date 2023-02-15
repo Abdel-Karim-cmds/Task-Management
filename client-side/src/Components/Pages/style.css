@@ -1,0 +1,138 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+label {
+    font-weight: bold;
+    color: #FFFF33 !important;
+    font-size: 15px !important;
+}
+button{
+    background-color: #222222 !important;
+    color: #39FF14 !important;
+    font-weight: bold !important;
+    position: relative !important;
+}
+.ant-btn-dashed{
+    border-color: #39FF14 !important;
+}
+.ant-btn-primary{
+    border-color: #39FF14 !important; 
+}
+.ant-layout .site-layout{
+    background-color: black !important;
+    
+}
+.ant-picker-panels{
+    background: #222222;
+}
+.ant-picker-content>*{
+    color: #0f0;
+}
+
+.ant-picker-cell-inner, .ant-picker-content{
+    color: #0f0 !important;
+}
+input{
+    color: #0f0 !important;
+}
+
+::placeholder{
+    color: #0f0 !important;
+
+}
+.ant-input{
+    background-color: #222222 !important;
+    border-color: #FFFF33 !important;
+    color: #0f0 !important;
+}
+.ant-input:after{
+    background-color: #222222 !important;
+    color: #FFFF33 !important; 
+    border-color: #FFFF33 !important;
+}
+.ant-select-selector{
+    background-color: #222222 !important;
+    border-color: #FFFF33 !important;
+}
+.ant-picker-range{
+    background-color: #222222 !important;
+    border-color: #FFFF33 !important;
+    color: white !important;
+}
+.ant-select-show-arrow{
+color: #0f0 !important;
+}
+.ant-layout-header{
+    background-color: #222222 !important;
+}
+.ant-layout-sider-children{
+    background-color: #333333 !important;
+}
+.ant-menu{
+    background-color: #444444 !important;
+}
+.dynamic-delete-button{
+    color: #FFFF33;
+    margin-left: 10
+}
+.ant-picker-content thead tr th{
+    color: #0f0;
+}
+.ant-table-row.ant-table-row-level-0{
+    color: #0f0 !important;
+}
+a{
+    color: #39FF14 !important;
+    /* background-color: #222222; */
+    font-weight: bold !important;
+    
+}
+.ant-layout-sider-trigger{
+    background-color: #555555;
+}
+/* 
+a::before{
+    background-color: #444444 ;
+} */
+
+.ant-pagination-item.ant-pagination-item-1.ant-pagination-item-active{
+    background-color: #222222;
+}
+.ant-btn-default{
+    background-color: #222222 !important;
+    color: #39FF14 !important;
+    font-weight: bold !important;
+    position: relative !important;
+    border-color: #39FF14 !important; 
+}
+.ant-table-content{
+    background-color: #222222 !important;
+    color: white !important;
+}
+.ant-table-content:hover{
+    color: #222222 !important;
+    background-color: #39FF14 !important;
+    /* isssues */
+}
+.ant-table-cell{
+    background-color: #444444 !important;
+    color: white !important;
+}
+.ant-card{
+    background-color: #444444 !important;
+    color: white !important;
+    font-weight:500;
+}
+.ant-progress-text{
+    color: white;
+}
+.ant-card-head-title{
+    color: white;
+    text-align: center;
+}
+.textprog{
+    color: white;
+}
